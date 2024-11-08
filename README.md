@@ -13,6 +13,8 @@ Autor: **Gabriel Lino**
 ---
 [![Kaggle Notebook](https://img.shields.io/badge/Kaggle-Notebook-blue?logo=kaggle)](https://www.kaggle.com/code/glgodoi/projeto-an-lise-de-vendas-de-produtos)
 
+## **Descrição**
+
 Neste projeto foi realida uma análise estatística e visual das vendas de um supermercado, utilizando um dataset com informações detalhadas sobre transações realizadas em diferentes filiais e categorias de produtos dos meses: janeiro, fevereiro e março de 2019 de três filiais. O dataset está disponível neste link: [supermarket-sales](https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales). O foco está em entender padrões de consumo, identificar os produtos mais vendidos, comparar o comportamento de compra entre diferentes tipos de clientes e explorar a distribuição de métodos de pagamento.
 
 ## **1. Coleta de Dados**
